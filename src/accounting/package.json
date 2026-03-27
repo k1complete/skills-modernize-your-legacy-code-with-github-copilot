@@ -1,0 +1,19 @@
+{
+  "name": "accounting-system",
+  "version": "1.0.0",
+  "description": "Student Account Management System - Node.js version",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
